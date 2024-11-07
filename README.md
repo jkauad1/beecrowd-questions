@@ -38,7 +38,7 @@ This project is a way to practice and consolidate my Java skills. The solutions 
 | 1010    | Simple Calculate           | [SimpleCalculate.java](src/beecrowd_beginner/SimpleCalculate.java) | [Beecrowd 1010](https://judge.beecrowd.com/en/problems/view/1010) |
 | 1011    | Sphere                     | [Sphere.java](src/beecrowd_beginner/Sphere.java)                   | [Beecrowd 1011](https://judge.beecrowd.com/en/problems/view/1011) |
 | 1012    | Area                       | [Area.java](src/beecrowd_beginner/Area.java)                       | [Beecrowd 1012](https://judge.beecrowd.com/en/problems/view/1012) |
-| 1013    | The Greatest               | [TheGreates.java](src/beecrowd_beginner/TheGreatest.java)          | [Beecrowd 1013](https://judge.beecrowd.com/en/problems/view/1013) |
-| 1014    | Consumption                | [TheGreates.java](src/beecrowd_beginner/Consumption.java)          | [Beecrowd 1013](https://judge.beecrowd.com/en/problems/view/1014) |
+| 1013    | The Greatest               | [TheGreatest.java](src/beecrowd_beginner/TheGreatest.java)         | [Beecrowd 1013](https://judge.beecrowd.com/en/problems/view/1013) |
+| 1014    | Consumption                | [Consumption.java](src/beecrowd_beginner/Consumption.java)         | [Beecrowd 1014](https://judge.beecrowd.com/en/problems/view/1014) |
 
 ---
