@@ -33,8 +33,11 @@ This project is a way to practice and consolidate my Java skills. The solutions 
 
 | Problem | Description                | My Solution                  | Problem Link                    |
 | ------- | -------------------------- | ---------------------------- | --------------------------------|
-| 1008    | Salary                     | [Salary.java](src/beecrowd_beginner/Salary.java) | [Beecrowd 1008](https://judge.beecrowd.com/en/problems/view/1008) |
+| 1008    | Salary                     | [Salary.java](src/beecrowd_beginner/Salary.java)                   | [Beecrowd 1008](https://judge.beecrowd.com/en/problems/view/1008) |
 | 1009    | Salary with Bonus          | [SalaryWithBonus.java](src/beecrowd_beginner/SalaryWithBonus.java) | [Beecrowd 1009](https://judge.beecrowd.com/en/problems/view/1009) |
 | 1010    | Simple Calculate           | [SimpleCalculate.java](src/beecrowd_beginner/SimpleCalculate.java) | [Beecrowd 1010](https://judge.beecrowd.com/en/problems/view/1010) |
+| 1011    | Sphere                     | [Sphere.java](src/beecrowd_beginner/Sphere.java)                   | [Beecrowd 1011](https://judge.beecrowd.com/en/problems/view/1011) |
+| 1012    | Area                       | [Area.java](src/beecrowd_beginner/Area.java)                       | [Beecrowd 1012](https://judge.beecrowd.com/en/problems/view/1012) |
+| 1013    | The Greatest               | [TheGreates.java](src/beecrowd_beginner/TheGreatest.java)          | [Beecrowd 1013](https://judge.beecrowd.com/en/problems/view/1013) |
 
 ---
