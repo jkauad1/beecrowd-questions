@@ -43,5 +43,8 @@ This project is a way to practice and consolidate my Java skills. The solutions 
 | 1015    | Distance Beetween Two Points | [DistanceBetweenTwoPoints.java](src/beecrowd_beginner/DistanceBetweenTwoPoints.java)         | [Beecrowd 1015](https://judge.beecrowd.com/en/problems/view/1015) |
 | 1016    | Distance                   | [Distance.java](src/beecrowd_beginner/Distance.java)               | [Beecrowd 1016](https://judge.beecrowd.com/en/problems/view/1016) |
 | 1017    | Fuel Spent                 | [FuelSpent.java](src/beecrowd_beginner/FuelSpent.java)             | [Beecrowd 1017](https://judge.beecrowd.com/en/problems/view/1017) |
+| 1018    | Bank Notes                 | [BankNotes.java](src/beecrowd_beginner/BankNotes.java)             | [Beecrowd 1018](https://judge.beecrowd.com/en/problems/view/1018) |
+| 1019    | Time Conversion            | [TimeConversion.java](src/beecrowd_beginner/TimeConversion.java)   | [Beecrowd 1019](https://judge.beecrowd.com/en/problems/view/1019) |
+| 1020    | Age in Days                | [AgeInDay.java](src/beecrowd_beginner/AgeInDay.java)               | [Beecrowd 1020](https://judge.beecrowd.com/en/problems/view/1020) |
 
 ---
