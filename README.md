@@ -47,5 +47,8 @@ This project is a way to practice and consolidate my Java skills. The solutions 
 | 1019    | Time Conversion            | [TimeConversion.java](src/beecrowd_beginner/TimeConversion.java)   | [Beecrowd 1019](https://judge.beecrowd.com/en/problems/view/1019) |
 | 1020    | Age in Days                | [AgeInDay.java](src/beecrowd_beginner/AgeInDay.java)               | [Beecrowd 1020](https://judge.beecrowd.com/en/problems/view/1020) |
 | 1021    | Bank Notes and Coins       | [BankNotesAndCoins.java](src/beecrowd_beginner/BankNotesAndCoins.java) | [Beecrowd 1021](https://judge.beecrowd.com/en/problems/view/1021) |
+| 1035    | Selection Test 1           | [SelectionTest1.java](src/beecrowd_beginner/SelectionTest1.java)   | [Beecrowd 1035](https://judge.beecrowd.com/en/problems/view/1035) |
+| 1036    | Bhaskara's Formula         | [BhaskarasFormula.java](src/beecrowd_beginner/BankNotesAndCoins.java) | [Beecrowd 1036](https://judge.beecrowd.com/en/problems/view/1036) |
+| 1037    | Interval                   | [Interval.java](src/beecrowd_beginner/Interval.java)               | [Beecrowd 1037](https://judge.beecrowd.com/en/problems/view/1037) |
 
 ---
