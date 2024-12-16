@@ -50,5 +50,8 @@ This project is a way to practice and consolidate my Java skills. The solutions 
 | 1035    | Selection Test 1           | [SelectionTest1.java](src/beecrowd_beginner/SelectionTest1.java)   | [Beecrowd 1035](https://judge.beecrowd.com/en/problems/view/1035) |
 | 1036    | Bhaskara's Formula         | [BhaskarasFormula.java](src/beecrowd_beginner/BankNotesAndCoins.java) | [Beecrowd 1036](https://judge.beecrowd.com/en/problems/view/1036) |
 | 1037    | Interval                   | [Interval.java](src/beecrowd_beginner/Interval.java)               | [Beecrowd 1037](https://judge.beecrowd.com/en/problems/view/1037) |
+| 1038    | Snack                      | [Snack.java](src/beecrowd_beginner/Snack.java)                     | [Beecrowd 1038](https://judge.beecrowd.com/en/problems/view/1038) |
+| 1040    | Average 3                  | [Average3.java](src/beecrowd_beginner/Average3.java)               | [Beecrowd 1040](https://judge.beecrowd.com/en/problems/view/1040) |
+| 1041    | Coordinates of a Point     | [CoordinatesOfApoint.java](src/beecrowd_beginner/Snack.java)       | [Beecrowd 1041](https://judge.beecrowd.com/en/problems/view/1041) |
 
 ---
