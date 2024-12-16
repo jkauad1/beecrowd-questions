@@ -1,3 +1,5 @@
+package beecrowd_beginner;
+
 import java.util.Scanner;
 
 public class CoordinatesOfApoint {
